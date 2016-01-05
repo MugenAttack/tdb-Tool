@@ -1,0 +1,12 @@
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\bin\Debug\tdb Tool.exe.config
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb Tool.csprojResolveAssemblyReference.cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb_Tool.Form1.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb_Tool.Properties.Resources.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb Tool.csproj.GenerateResource.Cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\bin\Debug\tdb Tool.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\bin\Debug\tdb Tool.pdb
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb Tool.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Debug\tdb Tool.pdb
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\bin\Debug\tdb Tool.exe.config
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Debug\tdb Tool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Debug\tdb Tool.pdb
