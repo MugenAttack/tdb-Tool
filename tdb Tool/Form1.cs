@@ -58,7 +58,10 @@ namespace tdb_Tool
                     {
                         ReadLength = tdbfile.ReadInt32();
                         byte[] textdata = tdbfile.ReadBytes(ReadLength);
-                        tdbi.Items[i] = System.Text.Encoding.Unicode.GetString(textdata);
+                        byte[] aTxtData = new byte[textdata.Length - 2];
+                        Array.Copy(textdata, aTxtData, textdata.Length - 2);
+                        tdbi.Items[i] = System.Text.Encoding.Unicode.GetString(aTxtData);
+                        
                     }
 
                     j++;
@@ -128,8 +131,9 @@ namespace tdb_Tool
                     {
                         //tdbfile.Write((int)(FileText[i].Items[j].Length * 2));
                         byte[] tBytes = Encoding.Unicode.GetBytes(FileText[i].Items[j]);
-                        tdbfile.Write(tBytes.Length);
+                        tdbfile.Write(tBytes.Length + 2);
                         tdbfile.Write(tBytes);
+                        tdbfile.Write(new byte[] { 0x00, 0x00 });
                     }
                 }
             }
@@ -149,6 +153,11 @@ namespace tdb_Tool
                 FileText[i].Items[0] = FileText[i].Items[7];
                 FileText[i].Items[7] = temp;
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -7,3 +7,11 @@ c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\R
 c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Release\tdb Tool.exe
 c:\users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Release\tdb Tool.pdb
 C:\Users\gaming-pc\documents\visual studio 2015\Projects\tdb Tool\tdb Tool\obj\Release\tdb Tool.csprojResolveAssemblyReference.cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\bin\Release\tdb Tool.exe.config
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Release\tdb Tool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Release\tdb Tool.pdb
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Release\tdb_Tool.Form1.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Release\tdb_Tool.Properties.Resources.resources
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\obj\Release\tdb Tool.csproj.GenerateResource.Cache
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\bin\Release\tdb Tool.exe
+C:\Users\gaming-pc\Documents\Visual Studio 2015\Projects\tdb Tool\tdb-Tool\tdb Tool\bin\Release\tdb Tool.pdb
